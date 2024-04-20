@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from 'media/logo_blue.png'
+import logo from 'media/logo_black.png'
 
 const About = () => {
     return (
