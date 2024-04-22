@@ -1,17 +1,17 @@
-# Proyecto misionTic 
+# Proyecto tesis_uniminuto
 ***
-### demo: https://front-proyecta.herokuapp.com
+### demo: 
 ***
-### TeamName: Proyecta
+### TeamName: MDProjects
 
-Proyecta es un modelo de sistema de información que soporte la gestión de proyectos de investigación y mejora los procesos. 
+MDProjects es un modelo de sistema de información que soporte la gestión de proyectos de investigación y mejora los procesos. 
 ### Correos para ver todo el sitio web
 #### Cambian secciones de la pagina dependiendo del rol con el que te logueas
 | Rol    | Correo           | Password |
 |--------|-----------------|--------|
 |Admin | admin0@gmail.com | admin0 |
-|Lider | lidertest@gmail.com | lider123 |
-|Estudiante | student@gmail.com | student |
+|Lider | yohany@gmail.com | lider0 |
+|Estudiante | jd@gmail.com | estudiante0 |
 
 
 
