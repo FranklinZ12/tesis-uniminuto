@@ -7,7 +7,7 @@ import { useMutation } from '@apollo/client';
 import { LOGIN } from 'graphql/auth/mutations';
 import { useAuth } from 'context/authContext';
 import { useNavigate } from 'react-router-dom';
-import logo from "media/logo_blue.png";
+import logo from "media/logo_black.png";
 
 
 const Login = () => {

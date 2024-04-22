@@ -4,8 +4,8 @@ const Landing = () => {
     return (
         <div className="mt-4 ml-3 pl-3 flex justify-around w-full media">
             <div className="py-28">
-                <h1 className="text-6xl text-gray-600 mb-2.5 font-serif">Somos<span className="text-blue-400">Proyecta</span></h1>
-                <h3 className="text-blue-400 tracking-wide font-normal">REACT'S DEVELOPER</h3>
+                <h1 className="text-6xl text-gray-600 mb-2.5 font-serif">MD<span className="text-yellow-400">Projects</span></h1>
+                <h3 className="text-yellow-400 tracking-wide font-normal">REACT'S DEVELOPER</h3>
                 <div className="">
                     <p className="text-black leading-6 mt-3 mb-5 lg:flex-col">
                         En los grupos de investigación de las diferentes universidades se desarrollan <br />diversos tipos de proyectos de investigación y se detectan dificultades en el cumplimiento <br />del plan de trabajo de dicha investigación Mediante los reportes de avance del proyecto se controlará <br />el progreso parcial del proyecto de investigación. Nos proponemos plantear un modelo de sistema de información<br /> que soporte la gestión de proyectos de investigación y mejore los procesos.
@@ -16,9 +16,9 @@ const Landing = () => {
                 </div>
             </div>
             <div className="py-32">
-                <h2 className="text-6xl text-blue-400 mb-2.5 font-serif">Tec<span className="text-gray-600">nologias</span></h2>
-                <p>Estas son las tecnologias usadas por el equipo proyecta</p>
-                <h5 className="text-blue-400">MERN STACK</h5>
+                <h2 className="text-6xl text-yellow-400 mb-2.5 font-serif">Tec<span className="text-gray-600">nologias</span></h2>
+                <p>Estas son las tecnologias usadas por el equipo MDProjects</p>
+                <h5 className="text-yellow-400">MERN STACK</h5>
                 <div className="social">
                     <a href="#">
                         <i className="fab fa-react"></i>
