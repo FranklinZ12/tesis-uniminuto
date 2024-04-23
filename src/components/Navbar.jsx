@@ -81,8 +81,8 @@ const SidebarRoute = ({ to, title, icon }) => {
                 to={to}
                 className={({ isActive }) =>
                     isActive
-                        ? "sidebar-route text-white  border-blue-700"
-                        : "sidebar-route text-white  hover:border-blue-700"
+                        ? "sidebar-route text-white  border-blue-500"
+                        : "sidebar-route text-white  hover:border-blue-500"
                 }
             >
                 <div className="flex items-center">
