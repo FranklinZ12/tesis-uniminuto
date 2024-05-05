@@ -11,8 +11,8 @@ const Index = () => {
         <div className="pb-20 pt-10">
           <Link style={{ textDecoration: "none" }}>
             <center>
-              <i className="fas fa-users fa-7x text-blue-500 hover:text-purple-500 no-underline" />
-              <h1 className="text-blue-500 hover:text-purple-500 no-underline">
+              <i className="fas fa-users fa-7x text-yellow-400 hover:text-yellow-800 no-underline" />
+              <h1 className="text-blue-700 hover:text-blue-400 no-underline">
                 Usuarios
               </h1>
             </center>
@@ -24,8 +24,8 @@ const Index = () => {
         <div className="pb-20 pt-10">
           <Link style={{ textDecoration: "none" }}>
             <center>
-              <i className="fas fa-file-invoice fa-7x text-blue-500 hover:text-purple-500" />
-              <h1 className="text-blue-500 hover:text-purple-500">Proyectos</h1>
+              <i className="fas fa-file-invoice fa-7x text-yellow-400 hover:text-yellow-800" />
+              <h1 className="text-blue-700 hover:text-blue-400">Proyectos</h1>
             </center>
           </Link>
           <p className="text-center">
@@ -35,8 +35,8 @@ const Index = () => {
         <div className="pb-22 pt-10">
           <Link style={{ textDecoration: "none" }}>
             <center>
-              <i className="fas fa-user-plus fa-7x text-blue-500 hover:text-purple-500" />
-              <h1 className="text-center text-blue-500 hover:text-purple-500">
+              <i className="fas fa-user-plus fa-7x text-yellow-400 hover:text-yellow-800" />
+              <h1 className="text-center text-blue-700 hover:text-blue-400">
                 Inscripciones
               </h1>
             </center>
@@ -48,8 +48,8 @@ const Index = () => {
         <div className="pb-20 pt-10">
           <Link style={{ textDecoration: "none" }}>
             <center>
-              <i className="fa-tasks fas fa-list-check fa-7x text-blue-500 hover:text-purple-500" />
-              <h1 className="text-center text-blue-500 hover:text-purple-500">
+              <i className="fa-tasks fas fa-list-check fa-7x text-yellow-400 hover:text-yellow-800" />
+              <h1 className="text-center text-blue-700 hover:text-blue-400">
                 Avances
               </h1>
             </center>
