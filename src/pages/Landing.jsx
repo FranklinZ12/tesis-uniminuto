@@ -11,9 +11,6 @@ const Landing = () => {
                         En los grupos de investigación de las diferentes universidades se desarrollan <br />diversos tipos de proyectos de investigación y se detectan dificultades en el cumplimiento <br />del plan de trabajo de dicha investigación Mediante los reportes de avance del proyecto se controlará <br />el progreso parcial del proyecto de investigación. Nos proponemos plantear un modelo de sistema de información<br /> que soporte la gestión de proyectos de investigación y mejore los procesos.
                     </p>
                 </div>
-                <div className="social">
-                    <a href="https://github.com/ProyectaTeamMinTic" ><i className="fab fa-github"></i></a>
-                </div>
             </div>
             <div className="py-32">
                 <h2 className="text-6xl text-yellow-400 mb-2.5 font-serif">Tec<span className="text-gray-600">nologias</span></h2>
