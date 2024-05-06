@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
-import logo from "media/logo_blue.png";
+import logo from "media/logo_black.png";
 import { useAuth } from "context/authContext";
 import PrivateComponent from './PrivateComponent';
 
@@ -75,8 +75,8 @@ const Logo = () => {
   return (
     <div className="py-3 w-full flex flex-col items-center justify-center">
       <img src={logo} alt="Logo" className="h-32" />
-      <span className="my-2 text-4xl font-bold text-center text-blue-400">
-        Proyecta
+      <span className="my-2 text-4xl font-bold text-center text-blue-800">
+        MDProjects
       </span>
     </div>
   );
@@ -129,8 +129,8 @@ const SidebarRoute = ({ to, title, icon }) => {
         to={to}
         className={({ isActive }) =>
           isActive
-            ? "sidebar-route text-white bg-blue-600"
-            : "sidebar-route text-gray-900 hover:text-white hover:bg-indigo-400"
+            ? "sidebar-route text-white bg-blue-800"
+            : "sidebar-route text-gray-900 hover:text-white hover:bg-yellow-400"
         }
       >
         <div className="flex items-center">

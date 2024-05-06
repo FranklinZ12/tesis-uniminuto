@@ -45,10 +45,10 @@ const IndexProjectsLeader = () => {
               <th>Nombre Proyecto</th>
               <th>Fase</th>
               <th>Estado</th>
-              <th>Obj General</th>
-              <th>Obj esp1</th>
-              <th>Obj esp2</th>
-              <th>Obj esp3</th>
+              <th>Objetivo General</th>
+              <th>Objetivo especifico 1</th>
+              <th>Objetivo especifico 2</th>
+              <th>Objetivo especifico 3</th>
               <th>Fecha inicio</th>
               <th>Fecha fin</th>
               <th>Presupuesto</th>
@@ -85,7 +85,7 @@ const IndexProjectsLeader = () => {
             <Link to="/projects/add/">
               <button
                 type="button"
-                class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-yellow-400 hover:bg-yellow-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
               >
                 Registrar nuevo proyecto
               </button>
