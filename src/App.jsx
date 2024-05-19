@@ -43,7 +43,7 @@ import EditProgressE from "pages/private/progresses/editProgressE";
 
 const httpLink = createHttpLink({
   // uri: "http://localhost:4000/graphql",
-  uri: "https://api-tesis-uniminuto-l8tb.onrender.com/",
+  uri: "https://api-tesis-uniminuto-tzzu.onrender.com/",
 });
 const authLink = setContext((_, { headers }) => {
   // get the authentication token from local storage if it exists
